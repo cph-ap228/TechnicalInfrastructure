@@ -8,6 +8,7 @@ public class java
 
  public String name;
 
+
  public void start(){
 
 
@@ -15,5 +16,13 @@ public class java
     System.out.println("Welcome to a simple app... \n"
             + " Enter your name:");
     name = in.next();
+    run();
+
 }
+
+ public void run(){
+
+     System.out.println("Omg it's Working!!!! Such wow");
+
+ }
 }
