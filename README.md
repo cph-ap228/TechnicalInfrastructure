@@ -18,3 +18,16 @@ The link to this SP exercise should be send to XXX by Sunday 16<sup>th</sup> Oct
 
 The email should also contain a **list which clarifies who is behind each GitHub name**.
 
+
+
+
+## Stack
+1. MySQL Database
+1. phpMyAdmin Database Management Tool
+1. JAVA SDK9
+1. Tomcat 8
+1. Javascript
+1. HTML
+1. CSS
+1. HyggeMVC
+1. Ebean ORM 
